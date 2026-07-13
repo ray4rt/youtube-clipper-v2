@@ -47,8 +47,8 @@ youtube-clipper/
 
 ### Install dependency Node.js
 ```bash
-git clone <repo-url> youtube-clipper
-cd youtube-clipper
+git clone https://github.com/ray4rt/youtube-clipper-v2
+cd youtube-clipper-v2
 npm install
 ```
 
@@ -353,7 +353,7 @@ Disarankan menjalankan di belakang reverse proxy (nginx) dengan `proxy_buffering
 DILARANG UNTUK DI PERJUAL BELIKAN!!!
 - PAKE SENDIRI 
 - BOLEH DI KEMBANGKAN
-- NGANU: https://ibb.co.com/d4wN7kYw
+- NGANU: [Mampir Sebentar](https://ibb.co.com/d4wN7kYw)
 
 
 ---

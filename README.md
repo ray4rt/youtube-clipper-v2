@@ -1,5 +1,5 @@
 # YouTube Video Clipper v2
-![YouTube clipper v2](https://github.com/ray4rt/youtube-clipper-v2/Homepage.jpg)
+![YouTube clipper v2](https://github.com/ray4rt/youtube-clipper-v2/blob/main/Homepage.jpg)
 
 Tools untuk mengambil bagian tertentu (clip) dari video YouTube dan mengekspornya menjadi file video baru — tanpa perlu mengunduh seluruh video secara manual.
 
